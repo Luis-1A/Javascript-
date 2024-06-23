@@ -9,18 +9,19 @@
 }
 
 :root {
-    --color-background: linear-gradient(135deg, #FFD700, #FF8C00); /* Degradê de amarelo para laranja */
+    --color-background: #33d6ff;
     --color-black: #212121;
     --color-black-heavy: #000000;
-    --color-text: #5a5a5a; /* Um cinza mais escuro para melhor contraste */
-    --color-text-out: #a1a1a1; /* Um cinza claro para textos destacados */
-    --color-primary: #FF8C00; /* Laranja */
-    --color-secondary: #FFD700; /* Amarelo */
-    --color-highlight: #FF4500; /* Vermelho alaranjado para destaque */
-    --color-red: #d61904; /* Vermelho */
-    --color-green: #2ecc71; /* Verde */
-    --color-separate: #B5651D; /* Marrom claro, como a cor de um pão tostado */
+    --color-text: #4f4f4f;
+    --color-text-out: #90908e;
+    --color-primary: #ff7b00;
+    --color-secondary: #fff2cc;
+    --color-white: #ffffff;
+    --color-red: #d61904;
+    --color-green: #2ecc71;
+    --color-separate: #cccccc;
 }
+
 
 html, body {
     font-family: 'PoppinsRegular', 'Rubik', sans-serif;
