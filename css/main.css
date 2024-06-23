@@ -9,19 +9,18 @@
 }
 
 :root {
-    --color-background: #33d6ff;
+    --color-background: linear-gradient(135deg, #FFD700, #FF8C00); /* Degradê de amarelo para laranja */
     --color-black: #212121;
     --color-black-heavy: #000000;
     --color-text: #4f4f4f;
     --color-text-out: #90908e;
-    --color-primary: #ff7b00;
-    --color-secondary: #3900fa;
+    --color-primary: #FFA500; /* Laranja */
+    --color-secondary: #FFD700; /* Amarelo */
     --color-white: #ffffff;
     --color-red: #d61904;
     --color-green: #2ecc71;
     --color-separate: #cccccc;
 }
-
 
 html, body {
     font-family: 'PoppinsRegular', 'Rubik', sans-serif;
